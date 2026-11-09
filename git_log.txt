@@ -1,0 +1,253 @@
+﻿================================================================================
+                   FDT AGENT - LOCAL GIT COMMIT LOG HISTORY                     
+================================================================================
+ExportedAt: 2026-11-09 07:39:32 UTC
+
+--- CONTRIBUTORS SUMMARY ---
+17	TRẦN THANH TÀI (23115053122139) <23115053122139@fdt.ute.udn.vn>
+
+--- MACHINE READABLE COMMITS ---
+COMMIT_ROW|355ad676ae617721855d8b04612842e1e8e50908|355ad67|TRẦN THANH TÀI (23115053122139)|23115053122139@fdt.ute.udn.vn|TRẦN THANH TÀI (23115053122139)|23115053122139@fdt.ute.udn.vn|2026-11-09T14:39:32+07:00|FDT Agent Auto-Commit [14:39:32]: Tự động sao lưu commit trước khi nộp bài
+COMMIT_ROW|48da33de060d8ddcdc30c6099e4ebc9c045843c2|48da33d|TRẦN THANH TÀI (23115053122139)|23115053122139@fdt.ute.udn.vn|TRẦN THANH TÀI (23115053122139)|23115053122139@fdt.ute.udn.vn|2026-11-09T14:38:57+07:00|Xu li sự kiện khi nhấn button Xoóa
+COMMIT_ROW|ce9cfadf477a0159bead0638ffd7c66722e775a8|ce9cfad|TRẦN THANH TÀI (23115053122139)|23115053122139@fdt.ute.udn.vn|TRẦN THANH TÀI (23115053122139)|23115053122139@fdt.ute.udn.vn|2026-11-09T14:36:12+07:00|FDT Agent Autosave [14:36:12]: Tự động sao lưu tiến độ làm bài định kỳ
+COMMIT_ROW|cd3a2495541cb91a7109b76474eee91ceb9c1cbb|cd3a249|TRẦN THANH TÀI (23115053122139)|23115053122139@fdt.ute.udn.vn|TRẦN THANH TÀI (23115053122139)|23115053122139@fdt.ute.udn.vn|2026-11-09T14:31:38+07:00|Xu li khai bao diem va thông báo lỗi khi nhập sai
+COMMIT_ROW|ddf10357d2fda40ec2e336c32bc8af1d3053b902|ddf1035|TRẦN THANH TÀI (23115053122139)|23115053122139@fdt.ute.udn.vn|TRẦN THANH TÀI (23115053122139)|23115053122139@fdt.ute.udn.vn|2026-11-09T14:31:11+07:00|FDT Agent Autosave [14:31:11]: Tự động sao lưu tiến độ làm bài định kỳ
+COMMIT_ROW|b08e8898c383888063527dead768f739ccb2d7c0|b08e889|TRẦN THANH TÀI (23115053122139)|23115053122139@fdt.ute.udn.vn|TRẦN THANH TÀI (23115053122139)|23115053122139@fdt.ute.udn.vn|2026-11-09T14:26:08+07:00|FDT Agent Autosave [14:26:08]: Tự động sao lưu tiến độ làm bài định kỳ
+COMMIT_ROW|cc57a98824b64d1c2dee1000fcd26a63717d9077|cc57a98|TRẦN THANH TÀI (23115053122139)|23115053122139@fdt.ute.udn.vn|TRẦN THANH TÀI (23115053122139)|23115053122139@fdt.ute.udn.vn|2026-11-09T14:21:06+07:00|FDT Agent Autosave [14:21:06]: Tự động sao lưu tiến độ làm bài định kỳ
+COMMIT_ROW|2529a977f78b6beace45eaa65e7162488d3b33f6|2529a97|TRẦN THANH TÀI (23115053122139)|23115053122139@fdt.ute.udn.vn|TRẦN THANH TÀI (23115053122139)|23115053122139@fdt.ute.udn.vn|2026-11-09T14:11:04+07:00|FDT Agent Autosave [14:11:04]: Tự động sao lưu tiến độ làm bài định kỳ
+COMMIT_ROW|cb952702e2b2c86fd4919ff482d83bc9208bb80e|cb95270|TRẦN THANH TÀI (23115053122139)|23115053122139@fdt.ute.udn.vn|TRẦN THANH TÀI (23115053122139)|23115053122139@fdt.ute.udn.vn|2026-11-09T14:10:45+07:00|Thiet ke giao dien form nhap hoc phan va hien thi ket qua
+COMMIT_ROW|dfee304f14f99f8392fef944f1a832b6342d185f|dfee304|TRẦN THANH TÀI (23115053122139)|23115053122139@fdt.ute.udn.vn|TRẦN THANH TÀI (23115053122139)|23115053122139@fdt.ute.udn.vn|2026-11-09T14:06:05+07:00|FDT Agent Autosave [14:06:05]: Tự động sao lưu tiến độ làm bài định kỳ
+COMMIT_ROW|42023a53918430b6149fb33502279b986da4c8c4|42023a5|TRẦN THANH TÀI (23115053122139)|23115053122139@fdt.ute.udn.vn|TRẦN THANH TÀI (23115053122139)|23115053122139@fdt.ute.udn.vn|2026-11-09T14:01:02+07:00|FDT Agent Autosave [14:01:02]: Tự động sao lưu tiến độ làm bài định kỳ
+COMMIT_ROW|fe11c8cd6999b69099c4dda3f8f688dd09440887|fe11c8c|TRẦN THANH TÀI (23115053122139)|23115053122139@fdt.ute.udn.vn|TRẦN THANH TÀI (23115053122139)|23115053122139@fdt.ute.udn.vn|2026-11-09T13:59:44+07:00|Tao hocphanhelper kiem tra dau vao tinh T va phan loai
+COMMIT_ROW|f2ab0a130e5f98603f688fa8a7e625bf63ddb66e|f2ab0a1|TRẦN THANH TÀI (23115053122139)|23115053122139@fdt.ute.udn.vn|TRẦN THANH TÀI (23115053122139)|23115053122139@fdt.ute.udn.vn|2026-11-09T13:56:01+07:00|FDT Agent Autosave [13:56:00]: Tự động sao lưu tiến độ làm bài định kỳ
+COMMIT_ROW|15a4e68845e1c262c938524879d36d72b6197197|15a4e68|TRẦN THANH TÀI (23115053122139)|23115053122139@fdt.ute.udn.vn|TRẦN THANH TÀI (23115053122139)|23115053122139@fdt.ute.udn.vn|2026-11-09T13:51:12+07:00|bổ sung trước main
+COMMIT_ROW|8635fc25858c20218a11080767a216d0ef7533af|8635fc2|TRẦN THANH TÀI (23115053122139)|23115053122139@fdt.ute.udn.vn|TRẦN THANH TÀI (23115053122139)|23115053122139@fdt.ute.udn.vn|2026-11-09T13:50:58+07:00|FDT Agent Autosave [13:50:58]: Tự động sao lưu tiến độ làm bài định kỳ
+COMMIT_ROW|b2100e6c1008153ce728006c6849bdb3e2e8f926|b2100e6|TRẦN THANH TÀI (23115053122139)|23115053122139@fdt.ute.udn.vn|TRẦN THANH TÀI (23115053122139)|23115053122139@fdt.ute.udn.vn|2026-11-09T13:35:02+07:00|acti and vadi
+COMMIT_ROW|b09377c7cd82867eac7fc3b577459a85dfb92159|b09377c|TRẦN THANH TÀI (23115053122139)|23115053122139@fdt.ute.udn.vn|TRẦN THANH TÀI (23115053122139)|23115053122139@fdt.ute.udn.vn|2026-11-09T13:26:58+07:00|FDT Agent: Initialized local project repository
+
+--- DETAILED COMMIT HISTORY WITH FILE STATS ---
+commit 355ad676ae617721855d8b04612842e1e8e50908
+Author:     TRẦN THANH TÀI (23115053122139) <23115053122139@fdt.ute.udn.vn>
+AuthorDate: Mon Nov 9 14:39:32 2026 +0700
+Commit:     TRẦN THANH TÀI (23115053122139) <23115053122139@fdt.ute.udn.vn>
+CommitDate: Mon Nov 9 14:39:32 2026 +0700
+
+    FDT Agent Auto-Commit [14:39:32]: Tự động sao lưu commit trước khi nộp bài
+
+ app/GIAITHICH.md | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 48da33de060d8ddcdc30c6099e4ebc9c045843c2
+Author:     TRẦN THANH TÀI (23115053122139) <23115053122139@fdt.ute.udn.vn>
+AuthorDate: Mon Nov 9 14:38:57 2026 +0700
+Commit:     TRẦN THANH TÀI (23115053122139) <23115053122139@fdt.ute.udn.vn>
+CommitDate: Mon Nov 9 14:38:57 2026 +0700
+
+    Xu li sự kiện khi nhấn button Xoóa
+
+ .../edu/ute/week08/s23115053122139/MainActivity.kt  | 21 +++++++++++++--------
+ 1 file changed, 13 insertions(+), 8 deletions(-)
+
+commit ce9cfadf477a0159bead0638ffd7c66722e775a8
+Author:     TRẦN THANH TÀI (23115053122139) <23115053122139@fdt.ute.udn.vn>
+AuthorDate: Mon Nov 9 14:36:12 2026 +0700
+Commit:     TRẦN THANH TÀI (23115053122139) <23115053122139@fdt.ute.udn.vn>
+CommitDate: Mon Nov 9 14:36:12 2026 +0700
+
+    FDT Agent Autosave [14:36:12]: Tự động sao lưu tiến độ làm bài định kỳ
+
+ app/src/main/java/vn/edu/ute/week08/s23115053122139/MainActivity.kt | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+commit cd3a2495541cb91a7109b76474eee91ceb9c1cbb
+Author:     TRẦN THANH TÀI (23115053122139) <23115053122139@fdt.ute.udn.vn>
+AuthorDate: Mon Nov 9 14:31:38 2026 +0700
+Commit:     TRẦN THANH TÀI (23115053122139) <23115053122139@fdt.ute.udn.vn>
+CommitDate: Mon Nov 9 14:31:38 2026 +0700
+
+    Xu li khai bao diem va thông báo lỗi khi nhập sai
+
+ .../edu/ute/week08/s23115053122139/MainActivity.kt | 68 ++++++++++++++++++++--
+ 1 file changed, 63 insertions(+), 5 deletions(-)
+
+commit ddf10357d2fda40ec2e336c32bc8af1d3053b902
+Author:     TRẦN THANH TÀI (23115053122139) <23115053122139@fdt.ute.udn.vn>
+AuthorDate: Mon Nov 9 14:31:11 2026 +0700
+Commit:     TRẦN THANH TÀI (23115053122139) <23115053122139@fdt.ute.udn.vn>
+CommitDate: Mon Nov 9 14:31:11 2026 +0700
+
+    FDT Agent Autosave [14:31:11]: Tự động sao lưu tiến độ làm bài định kỳ
+
+ .../main/java/vn/edu/ute/week08/s23115053122139/MainActivity.kt    | 7 ++++++-
+ 1 file changed, 6 insertions(+), 1 deletion(-)
+
+commit b08e8898c383888063527dead768f739ccb2d7c0
+Author:     TRẦN THANH TÀI (23115053122139) <23115053122139@fdt.ute.udn.vn>
+AuthorDate: Mon Nov 9 14:26:08 2026 +0700
+Commit:     TRẦN THANH TÀI (23115053122139) <23115053122139@fdt.ute.udn.vn>
+CommitDate: Mon Nov 9 14:26:08 2026 +0700
+
+    FDT Agent Autosave [14:26:08]: Tự động sao lưu tiến độ làm bài định kỳ
+
+ .../vn/edu/ute/week08/s23115053122139/MainActivity.kt     | 15 ++++++++++++++-
+ 1 file changed, 14 insertions(+), 1 deletion(-)
+
+commit cc57a98824b64d1c2dee1000fcd26a63717d9077
+Author:     TRẦN THANH TÀI (23115053122139) <23115053122139@fdt.ute.udn.vn>
+AuthorDate: Mon Nov 9 14:21:06 2026 +0700
+Commit:     TRẦN THANH TÀI (23115053122139) <23115053122139@fdt.ute.udn.vn>
+CommitDate: Mon Nov 9 14:21:06 2026 +0700
+
+    FDT Agent Autosave [14:21:06]: Tự động sao lưu tiến độ làm bài định kỳ
+
+ .../edu/ute/week08/s23115053122139/MainActivity.kt | 50 +++++++++++++++++++---
+ 1 file changed, 45 insertions(+), 5 deletions(-)
+
+commit 2529a977f78b6beace45eaa65e7162488d3b33f6
+Author:     TRẦN THANH TÀI (23115053122139) <23115053122139@fdt.ute.udn.vn>
+AuthorDate: Mon Nov 9 14:11:04 2026 +0700
+Commit:     TRẦN THANH TÀI (23115053122139) <23115053122139@fdt.ute.udn.vn>
+CommitDate: Mon Nov 9 14:11:04 2026 +0700
+
+    FDT Agent Autosave [14:11:04]: Tự động sao lưu tiến độ làm bài định kỳ
+
+ app/src/main/res/layout/activity_main.xml | 68 ++++++++++++++++++++++++++++++-
+ 1 file changed, 67 insertions(+), 1 deletion(-)
+
+commit cb952702e2b2c86fd4919ff482d83bc9208bb80e
+Author:     TRẦN THANH TÀI (23115053122139) <23115053122139@fdt.ute.udn.vn>
+AuthorDate: Mon Nov 9 14:10:45 2026 +0700
+Commit:     TRẦN THANH TÀI (23115053122139) <23115053122139@fdt.ute.udn.vn>
+CommitDate: Mon Nov 9 14:10:45 2026 +0700
+
+    Thiet ke giao dien form nhap hoc phan va hien thi ket qua
+
+ app/src/main/res/layout/activity_main.xml | 78 +++++++++++++++++++++++++++++--
+ 1 file changed, 74 insertions(+), 4 deletions(-)
+
+commit dfee304f14f99f8392fef944f1a832b6342d185f
+Author:     TRẦN THANH TÀI (23115053122139) <23115053122139@fdt.ute.udn.vn>
+AuthorDate: Mon Nov 9 14:06:05 2026 +0700
+Commit:     TRẦN THANH TÀI (23115053122139) <23115053122139@fdt.ute.udn.vn>
+CommitDate: Mon Nov 9 14:06:05 2026 +0700
+
+    FDT Agent Autosave [14:06:05]: Tự động sao lưu tiến độ làm bài định kỳ
+
+ app/src/main/res/layout/activity_main.xml | 14 +++++++++-----
+ 1 file changed, 9 insertions(+), 5 deletions(-)
+
+commit 42023a53918430b6149fb33502279b986da4c8c4
+Author:     TRẦN THANH TÀI (23115053122139) <23115053122139@fdt.ute.udn.vn>
+AuthorDate: Mon Nov 9 14:01:02 2026 +0700
+Commit:     TRẦN THANH TÀI (23115053122139) <23115053122139@fdt.ute.udn.vn>
+CommitDate: Mon Nov 9 14:01:02 2026 +0700
+
+    FDT Agent Autosave [14:01:02]: Tự động sao lưu tiến độ làm bài định kỳ
+
+ .../edu/ute/week08/s23115053122139/HocPhanHelper.kt   | 19 ++++++++++++++++++-
+ 1 file changed, 18 insertions(+), 1 deletion(-)
+
+commit fe11c8cd6999b69099c4dda3f8f688dd09440887
+Author:     TRẦN THANH TÀI (23115053122139) <23115053122139@fdt.ute.udn.vn>
+AuthorDate: Mon Nov 9 13:59:44 2026 +0700
+Commit:     TRẦN THANH TÀI (23115053122139) <23115053122139@fdt.ute.udn.vn>
+CommitDate: Mon Nov 9 13:59:44 2026 +0700
+
+    Tao hocphanhelper kiem tra dau vao tinh T va phan loai
+
+ .../edu/ute/week08/s23115053122139/HocPhanHelper.kt | 21 +++++++++++++++++++++
+ 1 file changed, 21 insertions(+)
+
+commit f2ab0a130e5f98603f688fa8a7e625bf63ddb66e
+Author:     TRẦN THANH TÀI (23115053122139) <23115053122139@fdt.ute.udn.vn>
+AuthorDate: Mon Nov 9 13:56:01 2026 +0700
+Commit:     TRẦN THANH TÀI (23115053122139) <23115053122139@fdt.ute.udn.vn>
+CommitDate: Mon Nov 9 13:56:01 2026 +0700
+
+    FDT Agent Autosave [13:56:00]: Tự động sao lưu tiến độ làm bài định kỳ
+
+ app/src/main/java/vn/edu/ute/week08/s23115053122139/HocPhanHelper.kt | 4 ++++
+ 1 file changed, 4 insertions(+)
+
+commit 15a4e68845e1c262c938524879d36d72b6197197
+Author:     TRẦN THANH TÀI (23115053122139) <23115053122139@fdt.ute.udn.vn>
+AuthorDate: Mon Nov 9 13:51:12 2026 +0700
+Commit:     TRẦN THANH TÀI (23115053122139) <23115053122139@fdt.ute.udn.vn>
+CommitDate: Mon Nov 9 13:51:12 2026 +0700
+
+    bổ sung trước main
+
+ GIAITHICH.md | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 8635fc25858c20218a11080767a216d0ef7533af
+Author:     TRẦN THANH TÀI (23115053122139) <23115053122139@fdt.ute.udn.vn>
+AuthorDate: Mon Nov 9 13:50:58 2026 +0700
+Commit:     TRẦN THANH TÀI (23115053122139) <23115053122139@fdt.ute.udn.vn>
+CommitDate: Mon Nov 9 13:50:58 2026 +0700
+
+    FDT Agent Autosave [13:50:58]: Tự động sao lưu tiến độ làm bài định kỳ
+
+ GIAITHICH.md     | 0
+ app/GIAITHICH.md | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit b2100e6c1008153ce728006c6849bdb3e2e8f926
+Author:     TRẦN THANH TÀI (23115053122139) <23115053122139@fdt.ute.udn.vn>
+AuthorDate: Mon Nov 9 13:35:02 2026 +0700
+Commit:     TRẦN THANH TÀI (23115053122139) <23115053122139@fdt.ute.udn.vn>
+CommitDate: Mon Nov 9 13:35:02 2026 +0700
+
+    acti and vadi
+
+ app/.gitignore                                     |   1 +
+ app/build.gradle.kts                               |  44 ++++
+ .../s23115053122139/ExampleInstrumentedTest.kt     |  24 ++
+ app/src/main/AndroidManifest.xml                   |  26 +++
+ .../edu/ute/week08/s23115053122139/MainActivity.kt |  20 ++
+ app/src/main/keepRules/rules.keep                  |  12 +
+ .../main/res/drawable/ic_launcher_background.xml   | 170 ++++++++++++++
+ .../main/res/drawable/ic_launcher_foreground.xml   |  30 +++
+ app/src/main/res/layout/activity_main.xml          |  19 ++
+ app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml |   6 +
+ .../res/mipmap-anydpi-v26/ic_launcher_round.xml    |   6 +
+ app/src/main/res/mipmap-hdpi/ic_launcher.webp      | Bin 0 -> 1404 bytes
+ .../main/res/mipmap-hdpi/ic_launcher_round.webp    | Bin 0 -> 2898 bytes
+ app/src/main/res/mipmap-mdpi/ic_launcher.webp      | Bin 0 -> 982 bytes
+ .../main/res/mipmap-mdpi/ic_launcher_round.webp    | Bin 0 -> 1772 bytes
+ app/src/main/res/mipmap-xhdpi/ic_launcher.webp     | Bin 0 -> 1900 bytes
+ .../main/res/mipmap-xhdpi/ic_launcher_round.webp   | Bin 0 -> 3918 bytes
+ app/src/main/res/mipmap-xxhdpi/ic_launcher.webp    | Bin 0 -> 2884 bytes
+ .../main/res/mipmap-xxhdpi/ic_launcher_round.webp  | Bin 0 -> 5914 bytes
+ app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp   | Bin 0 -> 3844 bytes
+ .../main/res/mipmap-xxxhdpi/ic_launcher_round.webp | Bin 0 -> 7778 bytes
+ app/src/main/res/values-night/themes.xml           |   7 +
+ app/src/main/res/values/colors.xml                 |   5 +
+ app/src/main/res/values/strings.xml                |   3 +
+ app/src/main/res/values/themes.xml                 |   9 +
+ app/src/main/res/xml/backup_rules.xml              |  13 ++
+ app/src/main/res/xml/data_extraction_rules.xml     |  19 ++
+ .../ute/week08/s23115053122139/ExampleUnitTest.kt  |  17 ++
+ build.gradle.kts                                   |   4 +
+ gradle.properties                                  |  19 ++
+ gradle/gradle-daemon-jvm.properties                |  12 +
+ gradle/libs.versions.toml                          |  24 ++
+ gradle/wrapper/gradle-wrapper.jar                  | Bin 0 -> 45457 bytes
+ gradle/wrapper/gradle-wrapper.properties           |   9 +
+ gradlew                                            | 251 +++++++++++++++++++++
+ gradlew.bat                                        |  94 ++++++++
+ local.properties                                   |  10 +
+ settings.gradle.kts                                |  27 +++
+ 38 files changed, 881 insertions(+)
+
+commit b09377c7cd82867eac7fc3b577459a85dfb92159
+Author:     TRẦN THANH TÀI (23115053122139) <23115053122139@fdt.ute.udn.vn>
+AuthorDate: Mon Nov 9 13:26:58 2026 +0700
+Commit:     TRẦN THANH TÀI (23115053122139) <23115053122139@fdt.ute.udn.vn>
+CommitDate: Mon Nov 9 13:26:58 2026 +0700
+
+    FDT Agent: Initialized local project repository
+
+ .gitignore | 10 ++++++++++
+ 1 file changed, 10 insertions(+)
+
