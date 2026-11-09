@@ -40,7 +40,15 @@ class MainActivity : AppCompatActivity() {
         txtketqua = findViewById(R.id.txtketqua)
 
         btnkiemtra.setOnClickListener { xulykiemtra() }
-        btnxoa.setOnClickListener { xulyxoa() }
+        btnxoa.setOnClickListener {
+            edtten.text?.clear()
+            edtqt.text?.clear()
+            edtck.text?.clear()
+
+            edtten.error = null
+            edtqt.error = null
+            edtck.error = null
+        }
     }
     fun xulykiemtra() {
         val tenraw = edtten.text?.toString() ?: ""
@@ -56,23 +64,20 @@ class MainActivity : AppCompatActivity() {
         if (!HocPhanHelper.kiemtraten(tenraw)) {
             tilten.error = "Tên học phần sau trim phải dài 1..40 kí tự"
             hople = false
-        }else {
+        } else {
             tilten.error = null
         }
 
         if (diemqt == null) {
             tilqt.error = "Điểm QT phải là số thực từ 0 đến 10 (dùng dấu chấm)"
-        }else {
+        } else {
             tilqt.error = null
         }
 
         if (diemck == null) {
-            tilck.error ="Điểm CK phải là số thực từ 0 đến 10 (dùng dấu chấm thập phan)"
-        }else {
+            tilck.error = "Điểm CK phải là số thực từ 0 đến 10 (dùng dấu chấm thập phan)"
+        } else {
             tilck.error = null
         }
-    }
-    fun xulyxoa() {
-
     }
 }
